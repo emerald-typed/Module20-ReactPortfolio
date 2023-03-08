@@ -1,12 +1,15 @@
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Nav from './components/Nav.js';
 import logo from './logo.svg';
-
+import Main from './components/Main.js';
+import { Route , Routes} from 'react-router-dom';
 function App() {
   return (
     <div className="App">
-      <Nav />
+      <Routes>
+        <Route path="/" element={<Main />} />
+      </Routes>
+      <Main />
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
