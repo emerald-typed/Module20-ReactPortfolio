@@ -1,13 +1,11 @@
 import '../../App.css';
-
-import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 import Nav from 'react-bootstrap/Nav'
 
 function Welcome() {
   return (
-    <Card className="text-center">
-      <Card.Header>Welcome To My React Page</Card.Header>
+    <Card className="text-center m-5">
+      <Card.Header className='fs-1'>Welcome To My React Page</Card.Header>
       <Card.Body>
         <Card.Title>You Made It Thank You!!!</Card.Title>
         <Card.Text>

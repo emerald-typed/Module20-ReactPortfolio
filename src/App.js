@@ -1,6 +1,8 @@
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Home from './components/pages/Home'
+import Contact from './components/pages/Contact'
+import About from './components/pages/About'
 import NavBar from './components/Nav.js';
 import { Route , Routes} from 'react-router-dom';
 function App() {
@@ -12,13 +14,14 @@ function App() {
           <NavBar/>
         </div>
       </header>
-  
-        <div>
+      <br>
+      </br>
+        <div className='m-3'>
           <Routes>
             <Route path='/' element={<Home/>} />
-            <Route path='/About' element={<h1>Cool Line fill with react bootstrap later</h1>} />
+            <Route path='/About' element={<About/>}/>
             <Route path='/Portfolio' element={<h1>Porty</h1>} />
-            <Route path='/Contact' element={<h1>Cont</h1>} />
+            <Route path='/Contact' element={<Contact/>} />
           </Routes>
         </div>
   </div>
