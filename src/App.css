@@ -1,3 +1,21 @@
+/* CSS HEX */
+/* --brunswick-green: #065143ff;
+--platinum: #dee5e5ff;
+--chocolate-cosmos: #4c191bff;
+--celtic-blue: #276fbfff;
+--hunyadi-yellow: #e09f3eff; */
+.button{
+  background-color: #e09f3eff;
+  color: #065143ff;
+}
+.hideLink{
+  color: #065143ff;
+  text-decoration: none;
+}
+.bg-green{
+  padding: 1%;
+  background-color: #065143ff;
+}
 .App {
   text-align: center;
 }
@@ -14,7 +32,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #dee5e5ff;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -25,7 +43,7 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: #dee5e5ff;
 }
 
 @keyframes App-logo-spin {
@@ -36,3 +54,6 @@
     transform: rotate(360deg);
   }
 }
+
+
+
