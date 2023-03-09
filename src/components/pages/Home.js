@@ -2,6 +2,7 @@ import '../../App.css';
 
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
+import Nav from 'react-bootstrap/Nav'
 
 function Welcome() {
   return (
@@ -12,7 +13,7 @@ function Welcome() {
         <Card.Text>
             I really appriciate you takin the time to take a closer look at my work...
         </Card.Text>
-        <Button href="/Portfolio"variant="primary">View My Portfolio</Button>
+        <Nav.Link href="/Portfolio" className=" mx-auto button rounded m-2 p-3 col-2 fs-5"><span className='textPlat'>View My Portfolio</span></Nav.Link>
       </Card.Body>
       <Card.Footer className="text-muted">-Kyle Hipple</Card.Footer>
     </Card>

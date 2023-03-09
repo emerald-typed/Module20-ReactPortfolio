@@ -4,6 +4,9 @@
 --chocolate-cosmos: #4c191bff;
 --celtic-blue: #276fbfff;
 --hunyadi-yellow: #e09f3eff; */
+.textPlat{
+  color: #dee5e5ff;
+}
 .button{
   background-color: #e09f3eff;
   color: #065143ff;
