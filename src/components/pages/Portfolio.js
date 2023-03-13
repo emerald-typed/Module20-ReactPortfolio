@@ -3,28 +3,28 @@ import ProjectCard from '../pages/Project';
 import Row from 'react-bootstrap/Row';
 
 const projects = [{
-  "src":"https://i.pinimg.com/736x/ba/92/7f/ba927ff34cd961ce2c184d47e8ead9f6.jpg",
-  "title":"cat1",
-  "github":"https://i.pinimg.com/736x/ba/92/7f/ba927ff34cd961ce2c184d47e8ead9f6.jpg" ,
-  "deployment" : "https://i.pinimg.com/736x/ba/92/7f/ba927ff34cd961ce2c184d47e8ead9f6.jpg"
+  "src":"https://github.com/KlyDesign/Module19-PWAtextEditor/raw/main/assets/ServiceWorker.jpg",
+  "title":"Jated PWA Text Editor",
+  "github":"https://github.com/KlyDesign/Module19-PWAtextEditor" ,
+  "deployment" : "https://jated.herokuapp.com/"
+},
+{
+  "src":"https://raw.githubusercontent.com/KlyDesign/Module14_BlogMVC/main/assets/images/HomePage.jpg",
+  "title":"Blog Using MVC",
+  "github":"https://github.com/KlyDesign/Module14_BlogMVC" ,
+  "deployment" : "https://klys-blog.herokuapp.com/login"
 },
 {
   "src":"https://i.pinimg.com/736x/ba/92/7f/ba927ff34cd961ce2c184d47e8ead9f6.jpg",
-  "title":"cat2",
-  "gitHub":"https://i.pinimg.com/736x/ba/92/7f/ba927ff34cd961ce2c184d47e8ead9f6.jpg" ,
-  "deployment" : "https://i.pinimg.com/736x/ba/92/7f/ba927ff34cd961ce2c184d47e8ead9f6.jpg"
+  "title":"NCAA Scorigami App",
+  "github":"https://github.com/KlyDesign/Big12-Scorigami" ,
+  "deployment" : "https://klydesign.github.io/Big12-Scorigami/"
 },
 {
-  "src":"https://i.pinimg.com/736x/ba/92/7f/ba927ff34cd961ce2c184d47e8ead9f6.jpg",
-  "title":"cat3",
-  "gitHub":"https://i.pinimg.com/736x/ba/92/7f/ba927ff34cd961ce2c184d47e8ead9f6.jpg" ,
-  "deployment" : "https://i.pinimg.com/736x/ba/92/7f/ba927ff34cd961ce2c184d47e8ead9f6.jpg"
-},
-{
-  "src":"https://i.pinimg.com/736x/ba/92/7f/ba927ff34cd961ce2c184d47e8ead9f6.jpg",
-  "title":"cat4",
-  "gitHub":"https://i.pinimg.com/736x/ba/92/7f/ba927ff34cd961ce2c184d47e8ead9f6.jpg" ,
-  "deployment" : "https://i.pinimg.com/736x/ba/92/7f/ba927ff34cd961ce2c184d47e8ead9f6.jpg"
+  "src":"https://raw.githubusercontent.com/KlyDesign/Module6-WeatherApp/main/assets/img/screenshot.jpg",
+  "title":"Weather App Demo",
+  "github":"https://github.com/KlyDesign/Module6-WeatherApp" ,
+  "deployment" : "https://klydesign.github.io/Module6-WeatherApp/"
 }
 ]
 
