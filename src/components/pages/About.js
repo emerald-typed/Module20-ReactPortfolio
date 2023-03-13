@@ -9,7 +9,10 @@ function BorderExample() {
         <Card.Body>
         <Card.Title>Kyle Hipple Javascript Developer</Card.Title>
         <Card.Text>
-            I stick to 5 C's of my free time CAD/Code/Calisthenics/Cardio/Cooking (Fav Hobbies)
+            My Favorite Color is Green // I buy everything in Dark Green 
+            
+            <br />  
+            My Favorite Hobbies are CAD/Javascript/Calisthenics/Running/Cooking/3D Printing
         </Card.Text>
         </Card.Body>
         </Card>

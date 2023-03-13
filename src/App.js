@@ -3,6 +3,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Home from './components/pages/Home'
 import Contact from './components/pages/Contact'
 import About from './components/pages/About'
+import Porty from './components/pages/Portfolio'
 import NavBar from './components/Nav.js';
 import { Route , Routes} from 'react-router-dom';
 function App() {
@@ -20,7 +21,7 @@ function App() {
           <Routes>
             <Route path='/' element={<Home/>} />
             <Route path='/About' element={<About/>}/>
-            <Route path='/Portfolio' element={<h1>Porty</h1>} />
+            <Route path='/Portfolio' element={<Porty/>} />
             <Route path='/Contact' element={<Contact/>} />
           </Routes>
         </div>
