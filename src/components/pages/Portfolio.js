@@ -15,7 +15,7 @@ const projects = [{
   "deployment" : "https://klys-blog.herokuapp.com/login"
 },
 {
-  "src":"https://i.pinimg.com/736x/ba/92/7f/ba927ff34cd961ce2c184d47e8ead9f6.jpg",
+  "src":"https://raw.githubusercontent.com/KlyDesign/Module20-ReactPortfolio/main/assets/scoragamiscreen.jpg",
   "title":"NCAA Scorigami App",
   "github":"https://github.com/KlyDesign/Big12-Scorigami" ,
   "deployment" : "https://klydesign.github.io/Big12-Scorigami/"
