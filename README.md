@@ -37,9 +37,9 @@ npm run start // to start app
 
 ## Screenshots
 ### Portfolio Screenshot
-### ![Portfolio](/Module20-ReactPortfolio/assets/portfolio.jpg "Screenshot")
+### ![Portfolio](/assets/portfolio.jpg "Screenshot")
 ### Contact Form
-### ![Contact](/Module20-ReactPortfolio/assets/contact.jpg "Screenshot")
+### ![Contact](/assets/contact.jpg "Screenshot")
 
 ## License
 ### The MIT License  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) 
