@@ -2,7 +2,14 @@ import '../../App.css';
 import ProjectCard from '../pages/Project';
 import Row from 'react-bootstrap/Row';
 
-const projects = [{
+const projects = [
+  {
+  "src":"https://raw.githubusercontent.com/KlyDesign/Module6-WeatherApp/main/assets/img/screenshot.jpg",
+  "title":"Project 3 Mern App Demo",
+  "github":"https://github.com/khevb27/MERN-APP" ,
+  "deployment" : "https://mern-schedule.herokuapp.com/"
+}
+  {
   "src":"https://github.com/KlyDesign/Module19-PWAtextEditor/raw/main/assets/ServiceWorker.jpg",
   "title":"Jated PWA Text Editor",
   "github":"https://github.com/KlyDesign/Module19-PWAtextEditor" ,
