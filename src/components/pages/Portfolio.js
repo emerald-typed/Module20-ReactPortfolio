@@ -4,7 +4,7 @@ import Row from 'react-bootstrap/Row';
 
 const projects = [
   {
-  "src":"https://raw.githubusercontent.com/KlyDesign/Module6-WeatherApp/main/assets/img/screenshot.jpg",
+  "src":"https://raw.githubusercontent.com/KlyDesign/Module6-WeatherApp/main/assets/herokuv1.jpg",
   "title":"Project 3 Mern App Demo",
   "github":"https://github.com/khevb27/MERN-APP" ,
   "deployment" : "https://mern-schedule.herokuapp.com/"
