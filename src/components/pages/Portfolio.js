@@ -8,7 +8,7 @@ const projects = [
   "title":"Project 3 Mern App Demo",
   "github":"https://github.com/khevb27/MERN-APP" ,
   "deployment" : "https://mern-schedule.herokuapp.com/"
-}
+},
   {
   "src":"https://github.com/KlyDesign/Module19-PWAtextEditor/raw/main/assets/ServiceWorker.jpg",
   "title":"Jated PWA Text Editor",
